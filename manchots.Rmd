@@ -4,7 +4,7 @@ title: "Etude sur les manchots"
 =======
 =======
 author: "Team Team : Lucile, Baptiste, Jeanne"
-date: "21/2/2023"
+date: "21/02/2023"
 output: html_document 
 >>>>>>> 750772a45441f425b21b9a9e1f6d3a2cc321a43c
 ---
