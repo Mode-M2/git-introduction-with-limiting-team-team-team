@@ -1,5 +1,5 @@
 title: "Etude sur les manchots"
-author: "Baptiste Bongibault et Team Team"
+author: "Baptiste Bongibault et Lulu et Team Team"
 date: "21/092023"
 output: html_document 
 ---
